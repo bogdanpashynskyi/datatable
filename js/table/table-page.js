@@ -22,7 +22,7 @@ export default class TablePage {
 
                     columnConfig: {
                         imageUrl: {
-                            title: ''
+                            title: '',
                         },
 
                         name: {
